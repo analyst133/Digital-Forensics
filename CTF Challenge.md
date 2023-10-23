@@ -1,6 +1,7 @@
 # CTF Challenge
-<h2>This lab is in image format for copying issues</h2>
-# This lab is only for your reference and not for showing it as your own work
+<h2>University of New Haven</h2>
+# This lab is only for your reference and educational purpose only<br>
+# This lab is owned by myself and my team members. Copying is strictly prohibited.
 
 ![Challenge_Lab_Report__Group_3_Final_1](https://github.com/analyst133/Digital-Forensics/assets/97921143/b1dc8f39-9ba9-47e4-abcb-606ffeaec410)
 ![Challenge_Lab_Report__Group_3_Final_2](https://github.com/analyst133/Digital-Forensics/assets/97921143/a3268ba6-222e-42c7-8024-e94c6f4be63f)
